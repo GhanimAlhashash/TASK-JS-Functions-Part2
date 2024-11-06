@@ -26,6 +26,7 @@ function isOdd(n) {
     return false;
   }
 }
+//hi 
 /**
  * oddsSmallerThan(n):
  * - receives a number n
