@@ -2,7 +2,7 @@
  * greet(name):
  * - receives a name
  * - logs "Hello <name>"
- *
+ * hi
  * e.g.
  * greet("Hamza") logs "Hello Hamza"
  */
